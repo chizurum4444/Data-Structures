@@ -151,4 +151,3 @@ class AVLTree {
 		tree.preOrder(tree.root); 
 	} 
 } 
-// This code has been contributed by Mayank Jaiswal 
