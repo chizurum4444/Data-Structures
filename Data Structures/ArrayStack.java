@@ -1,5 +1,3 @@
-//Question 5 of Practice Exam ArrayStack.java
-
 public class ArrayStack {
     private int array[];
     private int top;
